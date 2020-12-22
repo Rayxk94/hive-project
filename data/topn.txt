@@ -1,0 +1,11 @@
+1,男,19,hadoop
+2,女,21,spark
+3,男,16,hbase
+4,男,24,kafka
+5,男,46,flink
+6,女,16,phoenix
+7,女,22,zk
+8,女,26,sqoop
+9,女,37,hive
+10,男,43,zhangsan
+11,女,46,lisi

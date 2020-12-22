@@ -1,0 +1,5 @@
+1,19,hadoop-spark-hbase
+2,21,flink-hadoop
+3,16,hive-cdh-spark
+4,24,hbase-spark-cdh
+5,46,hadoop-spark-kafka
